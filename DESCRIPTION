@@ -3,10 +3,8 @@ Type: Package
 Title: Interface to SWAP hydrological model
 Version: 0.1
 Date: 2013-06-03
-Author: Mikhail Titov
-Maintainer: Mikhail Titov <mlt@gmx.us>
+Author: Mikhail Titov <mlt@gmx.us>
+Maintainer: Zacharias Steinmetz <stei4785@uni-landau.de>
 Description: Has utility functions to read SWAP output as well as read and
     write its configuration files via TTutil Fortran library.
 License: GPL-3, also see LICENSE.txt for underlying TTutil
-Collate:
-    'swap2r.R'
